@@ -1,4 +1,4 @@
-FROM centos
+FROM monolive/centos:6.5
 MAINTAINER Olivier Renault 
 
 USER root
